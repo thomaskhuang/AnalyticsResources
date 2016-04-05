@@ -13,13 +13,14 @@ A compilation of resources for Clinical Data Analysts
 
 
 ## Books  
-
+[R in Action](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed)  
 [R for Data Science](http://r4ds.had.co.nz/)  
 [Healthcare Analytics for Quality & Performance Improvement](http://healthcareanalytics.info/)  
 
 
 ## Analytics Toolkit (Software)  
 
+[Quick R](http://www.statmethods.net/)
 [R](https://www.r-project.org/)  
 [RStudio](https://www.rstudio.com)  
 [TOAD Data Point](http://software.dell.com/products/toad-data-point/)  
