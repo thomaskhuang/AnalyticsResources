@@ -33,6 +33,7 @@ A compilation of resources for Clinical Data Analysts
 [R for Excel users](http://www.rforexcelusers.com/)  
 [R vs Excel for data analysis](https://r-dir.com/blog/2013/11/r-vs-excel-for-data-analysis.html)  
 [Why R is better than Excel](http://fantasyfootballanalytics.net/2014/01/why-r-is-better-than-excel.html)  
+[Managing Data Projects with RStudio & Git](http://christianlemp.com/blog/2014/02/05/How-I-Manage-Data-Projects-with-RStudio-and-Git.html)
 
 
 
