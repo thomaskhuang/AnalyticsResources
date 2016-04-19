@@ -1,0 +1,6 @@
+REDCap Training Videos
+http://projectredcap.org/videos.php
+https://redcap.providence.org/redcap/index.php?action=training
+
+Best Practices
+https://www.ucdmc.ucdavis.edu/ctsc/redcap/documents/redcap_data_dictionary.pdf
